@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Calculator Unit Converter</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="user">udacodingid</string>
+    <string name="pass">udacodingJaya2021</string>
+    <string name="username_null">Username tidak boleh kosong !</string>
+    <string name="password_null">Password tidak boleh kosong !</string>
+    <string name="password_less">Password tidak boleh kurang dari 6 digit !</string>
+    <string name="username_wrong">Username Salah !</string>
+    <string name="password_wrong">Password Salah !"</string>
+    <string name="login">Login</string>
+    <string name="area">Luas</string>
+    <string name="volume">Volume</string>
+    <string name="converter">Konversi</string>
+    <string name="length">Panjang</string>
+    <string name="width">Lebar</string>
+    <string name="calculate_area">Hitung Luas</string>
+    <string name="square">%s m²</string>
+    <string name="height">Tinggi</string>
+    <string name="calculate_volume">Hitung Volume</string>
+    <string name="cubic">%s m³</string>
+    <string name="length_unit">Satuan Panjang</string>
+    <string name="unit_convert">Konversi Satuan Panjang</string>
+    <string name="icon">icon</string>
+    <string name="swap">swap</string>
+
+    <string-array name="Unit">
+        <item>km</item>
+        <item>hm</item>
+        <item>dam</item>
+        <item>m</item>
+        <item>dm</item>
+        <item>cm</item>
+        <item>mm</item>
+    </string-array>
+</resources>
